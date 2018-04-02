@@ -1,0 +1,35 @@
+{
+  "name": "react-utils",
+  "version": "0.0.0",
+  "description": "A bunch of handy react components to make life easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louay Alakkad <louay@alakkad.me>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louy/react-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/louy/react-utils/issues"
+  },
+  "homepage": "https://github.com/louy/react-utils#readme",
+  "keywords": [
+    "react"
+  ],
+  "peerDependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.3.0"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.0",
+    "react-testing-library": "^1.9.3"
+  },
+  "dependencies": {
+    "invariant": "^2.2.4"
+  }
+}
